@@ -4,5 +4,5 @@ git config user.email "N00484405@upn.pe"
 git add . 
 git commit -m "inicio" '
 git branch -M main 
-git remote add origin https://github.com/user/app.git
+git remote add origin https://github.com/MiguelRondanBlas/pregunta2.git
 git push -u origin main
