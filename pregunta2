@@ -1,6 +1,6 @@
 git init 
-git config user.name "TuNombre"
-git config user.email "tucorreo@ejemplo.com" 
+git config user.name "MiguelRondan"
+git config user.email "N00484405@upn.pe" 
 git add . 
 git commit -m "inicio" '
 git branch -M main 
