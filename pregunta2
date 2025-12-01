@@ -1,0 +1,8 @@
+git init 
+git config user.name "TuNombre"
+git config user.email "tucorreo@ejemplo.com" 
+git add . 
+git commit -m "inicio" '
+git branch -M main 
+git remote add origin https://github.com/user/app.git
+git push -u origin main
